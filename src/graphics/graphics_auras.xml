@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!-- Do not edit above this line -->
+    <!-- Place the new aura image into the graphics folder -->
+    <!-- Copy and paste the line below for each custom aura graphic and edit the file to point to the image and change the name to a unique name.  Aura icon names MUST begin with AURA_ or they will not be registered. -->
+    <icon file="graphics/ExampleAura.png" name="AURA_Example"/>
+    <!-- Do not edit below this line -->
+</root>
